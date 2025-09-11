@@ -1,7 +1,13 @@
 # mern-authentication
 
 
-It is just a dynamic page to enhance knowledge &amp; skills, created by using HTML, CSS, JavaScript and Visual Studio Code tools.
+∗ Designed and implemented a robust user authentication system with features including signup, login, logout,
+email verification, and password reset for secure access management.
+
+∗ Integrated Nodemailer and brevo for email delivery and testing.
+
+∗ Built responsive UI with React, including real-time validation, Used JWT for authentication, protected routes,
+and middleware validation.
 
 
 <img width="1920" height="1080" alt="Screenshot (166)" src="https://github.com/user-attachments/assets/77df2a40-6b16-4d86-aaf6-494593a3763d" />
