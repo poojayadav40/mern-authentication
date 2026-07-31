@@ -12,7 +12,10 @@ A full-stack web application built following modern web development practices. T
 * **API Testing**: Postman
 
 ---
+## 🚀 Live Demo
 
+Check out the live deployed application here:  
+👉 **[Student Auth System Live Demo](https://mern-authentication-gules.vercel.app/login)**
 
 # Screenshots
 
