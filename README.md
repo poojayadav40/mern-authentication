@@ -19,16 +19,14 @@ Check out the live deployed application here:
 
 # Screenshots
 
-
-<img width="1920" height="1080" alt="Screenshot (166)" src="https://github.com/user-attachments/assets/77df2a40-6b16-4d86-aaf6-494593a3763d" />
 #
-
-
-<img width="1920" height="1080" alt="Screenshot (167)" src="https://github.com/user-attachments/assets/82e457b1-9488-4096-803b-d1b82026e047" />
+<img width="1920" height="1080" alt="Screenshot (257)" src="https://github.com/user-attachments/assets/822745f3-b5cf-4148-b6d1-b335f4c42a19" />
 
 #
 
-<img width="1920" height="1080" alt="Screenshot (168)" src="https://github.com/user-attachments/assets/76f889fc-ea61-4c98-8ba1-4b4a590727f8" />
+<img width="1920" height="1080" alt="Screenshot (256)" src="https://github.com/user-attachments/assets/29e5bcaa-e1c5-4013-bb75-5c990cf7f688" />
+
+
 
 #
 
